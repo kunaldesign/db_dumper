@@ -34,7 +34,7 @@ This application built in the python with using tkinter libary and the using wit
 **auto_install:** ❎
 ## Screenshots
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](images/dbdumpern.png)
 
 
 ## Installation
